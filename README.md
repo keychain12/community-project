@@ -1,7 +1,3 @@
-<img width="1126" height="102" alt="Untitled (19)" src="https://github.com/user-attachments/assets/b76701fc-ff43-4060-8969-78249668fcf3" /><img width="1139" height="562" alt="Untitled (10)" src="https://github.com/user-attachments/assets/ba0b9248-8c6f-4959-9f4c-0c8b94500992" />프로젝트 설명을 위한 노션링크
-
-https://www.notion.so/working-title-2d91158462e6445ca7bd51f3d7d4ecee 
-
 <h2>기술스택</h2>
 
 BACK-END
@@ -207,5 +203,6 @@ addPathPatterns 에 넣은 url은 로그인시에만 허가를 받습니다.
 코드짤때도 람다식과 스트림 사용에대한 연습이 좀 필요할거같습니다.
 
 프로젝트 
-          
-<img width="227" height="471" alt="Untitled" src="https://github.com/user-attachments/assets/f6794471-f01d-493f-913a-b3672ea359d5" />
+<img width="1440" height="900" alt="스크린샷 2024-06-11 오전 11 17 21" src="https://github.com/user-attachments/assets/aa0928df-bb35-4640-9062-457dfaea5655" />
+
+
